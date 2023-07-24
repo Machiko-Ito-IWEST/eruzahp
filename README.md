@@ -1,2 +1,2 @@
-# eruzahp
-eruzaのHPです。
+"# repo.develop" 
+"# HP" 
