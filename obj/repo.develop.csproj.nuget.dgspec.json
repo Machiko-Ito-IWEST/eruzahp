@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\brainM\\repo.develop\\repo.develop\\repo.develop.csproj": {}
+    "C:\\CICDbrain\\azure\\repo-develop\\eruzahp\\repo.develop.csproj": {}
   },
   "projects": {
-    "C:\\brainM\\repo.develop\\repo.develop\\repo.develop.csproj": {
+    "C:\\CICDbrain\\azure\\repo-develop\\eruzahp\\repo.develop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\brainM\\repo.develop\\repo.develop\\repo.develop.csproj",
+        "projectUniqueName": "C:\\CICDbrain\\azure\\repo-develop\\eruzahp\\repo.develop.csproj",
         "projectName": "repo.develop",
-        "projectPath": "C:\\brainM\\repo.develop\\repo.develop\\repo.develop.csproj",
+        "projectPath": "C:\\CICDbrain\\azure\\repo-develop\\eruzahp\\repo.develop.csproj",
         "packagesPath": "C:\\Users\\tjg09538\\.nuget\\packages\\",
-        "outputPath": "C:\\brainM\\repo.develop\\repo.develop\\obj\\",
+        "outputPath": "C:\\CICDbrain\\azure\\repo-develop\\eruzahp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tjg09538\\AppData\\Roaming\\NuGet\\NuGet.Config"
